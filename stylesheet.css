@@ -8,49 +8,152 @@ background-color:white;
 
 float:;
 min-height: 1000px;
-padding: 0PX;
+padding: 0px;
 }
 
-.col-{
+.col{
 background-color:yellow;
-min-height: 1000px;
-margin right: 690px;
+min-height: 1200px;
+margin-top: 10px;
 
 }
 .ref{
-	margin: 20px;
+	padding: 5px;
+	margin: 15px;
+	
+	
 }
-
 #img {
-	border-radius:55%;
-	padding: 20px;
-	width: 200px;
-  height: 200px;
-  margin-left: 100px;
-  margin-right: 200px;
+	border-radius:60%;
+	padding: 40px;
+	width: 255px;
+  height: 255px;
+ margin: 75px;
+ text-align: center;
+ 
+  
 }
 
 .row1{
 	display: inline;
-	width: 100%;
+	width: 0%;
 	vertical-align:0px;
+
 }
 
 .col-7 {
-	width:70%;
+	width:50%;
 	display: inline-block;
 	float:left;
-    padding:17px;
+    padding:15px;
+
+
 }
 .col-5{
 
-	width: 25%;
+	width: 50%;
 	display: inline-block;
 	float:left;
 	padding-top: 17px;
-	
 
+
+}
+ 
+ .col-md-4{
+ 	background-color: #ffff00;
+ }
+
+.col-md-8{
+	background-color: #FFFFFF;
+}
+
+.contact{
+	width: 105%;
+	background-color: #ffffff;
+	padding:5px;
+	margin-bottom: 20px
+
+	
+	
+}
+
+.Aboutme{
+	width: 105%;
+	background-color: #ffffff;
+	padding:5px;
+	
+	margin-bottom:20px;
+
+}
+
+.Hobbies{
+	width: 105%;
+	background-color: #ffffff;
+	padding:5px;
+	margin-top: 50PX;
+	
+}
+.edu{
+margin-right: 20px
+
+
+
+
+}
+
+.junior{
+	margin: 5px;
+	float: right;
+}
+
+.employ{
+	margin-right: 20px 
+
+	
+}
+
+.joseph{
+	color: #ffff00; 
+}
+
+.name{
+	margin-bottom: 115px;
+	margin-top: 115px;
+}
+
+
+.likes{
+	text-align: center;
+	margin: 1px;
+
+}
+
+.exe{
+	margin: 5px;
+}
+.reading{
+	margin: 5px;
+}
+.basket{
+	margin: 0px;
+}
+
+.Address{
+	margin: 35px;
+}
+
+.Travel{
+	margin: 35px;
 }
 
 
 
+hr {
+width: 100%;
+
+margin-right: 70%;
+height: 50%;
+background-color:#FFFF00;
+
+
+}
